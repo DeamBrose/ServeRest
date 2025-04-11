@@ -1,0 +1,18 @@
+{
+  "testCaseFunctional": {
+    "listOfIdUsers":[
+      "0uxuPY0cbmQhpEz1",
+      "3rqvEBTDmwedZs6v"
+    ],
+    "listOfIdUsersNoRegistered":[
+      "0uxuPY0cbmQhpEw4",
+      "3rqvEBTDmwedZs3T"
+    ],
+    "listByNameUser": "Stef Trump",
+    "listByNameUserNoRegistered": "Deam Ambrose",
+    "listByEmailUser": "testeAtila.Batista81@gmail.com",
+    "listByEmailUserNoRegistered": "testeAtila.Batista81@gmail.com",
+    "listByPassword": "123456",
+    "listByPasswordNoRegistered": "Ambrose12345"
+  }
+}
